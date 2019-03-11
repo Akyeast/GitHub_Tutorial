@@ -20,9 +20,9 @@ Returns:
 	printf("dfdfdfdf");
 	
 	printf("hellllllll\n");
-	
 
 	printf("branch b second commit\n");
-
+	// hi im working on my galaxy tab
+	// hahah
 	return 0;
 }
